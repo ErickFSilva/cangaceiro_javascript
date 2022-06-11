@@ -1,0 +1,1 @@
+A pasta client/app/domain armazenará todos os scripts que dizerem respeito ao domínio da aplicação, no caso, tudo aquilo sobre negociações.

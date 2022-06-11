@@ -1,0 +1,1 @@
+A pasta negociação guarda a classe de negociação e os scripts de classes de serviços que possuem forte relação com esse domíno.
